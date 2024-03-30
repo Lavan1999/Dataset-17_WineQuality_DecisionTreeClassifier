@@ -1,4 +1,3 @@
-# Wine_Quality
 # Wine Quality Data analysis
 
 ## Overview
