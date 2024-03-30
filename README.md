@@ -1,4 +1,4 @@
-# Dataset-17_Wine_Quality
+# Wine_Quality
 # Wine Quality Data analysis
 
 ## Overview
