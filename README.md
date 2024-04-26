@@ -6,7 +6,7 @@ This repository contains the code and documentation for analyzing the "Wine Qual
 ## Description
 The "Wine Quality Data" dataset contains information about wine characteristics and quality. Each entry represents a wine sample and includes the following columns:
 
-- **fixed_acidity**: Fixed acidity level of the wine.
+- **fixed_acidity**: Fixed acidity level of the wine. 
 - **volatile_acidity**: Volatile acidity level of the wine.
 - **citric_acid**: Citric acid content in the wine.
 - **residual_sugar**: Residual sugar content in the wine.
